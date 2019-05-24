@@ -16,6 +16,14 @@ public class Nueva_practica {
    */
   public static void main(String[] args) {
     // TODO code application logic here
+    
+    int numero = 1;
+    int numero_2 = 2;
+    
+    
+    System.out.println(numero + numero_2);
+    
+    
   }
   
 }
